@@ -1,0 +1,71 @@
+# TREASURE – BETTER THAN ME
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I'm still alone
+Missing home
+Every song I hear I'm thinking 'bout you
+I'm getting on
+But since you're gone
+Ain't nobody left for me to turn to
+You ran
+Straight to
+His arms
+After crying on my shoulder
+No matter what you say
+He'll never take my place
+Does he love you
+And make you feel like a summer day
+Does he touch you
+And does he take all your pain away
+And can he make you smile like magic
+Jump through the fire and set you free
+It's obvious to see
+He ain't better than me
+No
+He ain't better than me
+Tell me why
+You said goodbye
+I never lied
+I never cheated your heart
+And now I find
+You cheated mine
+It exploded like a shot in the dark
+You ran
+Straight to
+His arms
+After crying on my shoulder
+No matter what you say
+He'll never take my place
+Does he love you
+And make you feel like a summer day
+Does he touch you
+And does he take all your pain away
+And can he make you smile like magic
+Jump through the fire and set you free
+It's obvious to see
+He ain't better than me
+No
+He ain't better than me
+It's too much
+When it's all up in my face
+But I just can't fight
+Don't wanna believe it
+I'll never believe it
+No
+Wake me up
+When we can live again live again right
+Cause that's the only way it should be
+That's the only way the only way
+Does he love you
+And make you feel like a summer day
+Does he touch you
+And does he take all your pain away
+And can he make you smile like magic
+Jump through the fire and set you free
+It's obvious to see
+He ain't better than me
+That's why you gotta believe
+He ain't better than me
+```
