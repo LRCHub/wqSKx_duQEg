@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "BETTER THAN ME",
+  "base_artist": "TREASURE",
+  "createdAt": "2026-03-01T07:46:20.446767Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Better by You, Better Than Me",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/01_Better_by_You,_Better_Than_Me_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Better by You, Better Than Me (live)",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/02_Better_by_You,_Better_Than_Me_(live)_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "Metro Station",
+      "has_synced": true,
+      "path": "select/03_Better_Than_Me_Metro_Station.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "Blood Orange",
+      "has_synced": true,
+      "path": "select/04_Better_Than_Me_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Can Do Better Than Me",
+      "artist": "Death Cab for Cutie",
+      "has_synced": true,
+      "path": "select/05_You_Can_Do_Better_Than_Me_Death_Cab_for_Cutie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Better By You, Better Than Me",
+      "artist": "Judas Priest",
+      "has_synced": false,
+      "path": "select/06_Better_By_You,_Better_Than_Me_Judas_Priest.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "Marlon Roudette",
+      "has_synced": false,
+      "path": "select/07_Better_Than_Me_Marlon_Roudette.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Be Better Than Me",
+      "artist": "T.I.",
+      "has_synced": false,
+      "path": "select/08_Be_Better_Than_Me_T.I..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/09_Better_Than_Me_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/10_Better_Than_Me_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "Terry Dexter",
+      "has_synced": false,
+      "path": "select/11_Better_Than_Me_Terry_Dexter.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "Bohnes",
+      "has_synced": true,
+      "path": "select/12_Better_Than_Me_Bohnes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "Hinder",
+      "has_synced": true,
+      "path": "select/13_Better_Than_Me_Hinder.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Better By You Better Than Me",
+      "artist": "JUDAS PRIEST",
+      "has_synced": true,
+      "path": "select/14_Better_By_You_Better_Than_Me_JUDAS_PRIEST.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Better By You, Better Than Me",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/15_Better_By_You,_Better_Than_Me_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Better Than Me (radio edit)",
+      "artist": "Hinder",
+      "has_synced": false,
+      "path": "select/16_Better_Than_Me_(radio_edit)_Hinder.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "Hinder",
+      "has_synced": true,
+      "path": "select/17_Better_Than_Me_Hinder.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Better Than Me",
+      "artist": "The Brobecks",
+      "has_synced": true,
+      "path": "select/18_Better_Than_Me_The_Brobecks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BETTER THAN ME",
+      "artist": "TREASURE",
+      "has_synced": false,
+      "path": "select/pl_01_BETTER_THAN_ME_TREASURE.txt"
+    }
+  ]
+}
